@@ -7,5 +7,6 @@ pip3 install pyautogui
 
 pip3 install pynput
 
-#############################
+#############
 You start by standing at the enterence once you've stepped in.
+#############
